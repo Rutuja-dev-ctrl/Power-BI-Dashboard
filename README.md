@@ -1,5 +1,5 @@
 # Power-BI-Dashboard
-The Data Scientist Dashboard Summary serves as a concise narrative of the analysis, offering stakeholders a clear understanding of the project's key aspects. It begins with the purpose, outlining the specific goals such as identifying trends or detecting anomalies.
+The Dashboard serves as a concise narrative of the analysis, offering stakeholders a clear understanding of the project's key aspects. It begins with the purpose, outlining the specific goals such as identifying trends or detecting anomalies.
 Purpose: Provides insights into [topic, e.g., sales performance or financial trends].
 Key Insights: Highlights [e.g., revenue growth, regional performance, or customer trends].
 KPIs: Tracks [e.g., sales, profit margins, customer retention].
